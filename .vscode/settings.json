@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Initital Discord Skeleton"
+        "Initital Discord Skeleton",
+        "Add rebickable set image call"
     ]
 }
